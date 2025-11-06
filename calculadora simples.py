@@ -1,5 +1,3 @@
-
-
 def soma(a, b):
     return a + b
 
@@ -36,3 +34,4 @@ else:
 
 
 print(f"Resultado: {resultado}")
+
