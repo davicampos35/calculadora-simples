@@ -8,4 +8,4 @@ Permite realizar operações de **soma, subtração, multiplicação e divisão*
 2. Execute o programa no terminal:
    ```bash
    python calculadora_simples.py
-
+3. Escolha a operação e veja o resultado.
